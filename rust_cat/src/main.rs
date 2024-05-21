@@ -26,3 +26,4 @@ fn main() {
     println!("{}", file_path);
     _ = cat_file(file_path);
 }
+
